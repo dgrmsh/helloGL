@@ -1,4 +1,4 @@
 helloGL
 =======
 
-Bezier curves &amp; OpenGL student project
+some cubic Bezier curves &amp; OpenGL experiments
